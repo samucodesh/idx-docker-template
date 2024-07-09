@@ -1,0 +1,10 @@
+{
+    "name": "Docker",
+    "description": "A docker template to develop on IDX",
+    "categories": [
+    "Misc"
+  ],
+    "publisher": "samucodesh",
+    "icon": "https://docs.docker.com/assets/images/logo-icon-white.svg",
+    "params": []
+  }

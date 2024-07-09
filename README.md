@@ -1,4 +1,4 @@
-<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fsamucodesh%2Fidx-docker-template">
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fsamucodesh%2Fidx-docker-template">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
