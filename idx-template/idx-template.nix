@@ -1,7 +1,7 @@
 # No user-configurable parameters
 { pkgs, ... }: {
   # Shell script that produces the final environment
-  bootstrap = ''
+  bootstrap = 
     # Copy the folder containing the `idx-template` files to the final
     # project folder for the new workspace. ${./.} inserts the directory
     # of the checked-out Git folder containing this template.
@@ -15,5 +15,5 @@
     rm -rf "$out/.git" "$out/idx-template".{nix,json}
 
     rm README.md
-  '';
+  ;
 }
